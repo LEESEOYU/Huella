@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+.title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #A1ADC0;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.vl {
+    border-left: 6px solid #BDC1CE;
+    height: 1000px;
+    border-right: 6px solid #BDC1CE;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 1000px;
+}
+
+.btn{
+    border-radius: 20px;
+    font-family: 'Mochiy Pop P One';
+}
+
+
